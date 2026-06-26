@@ -45,13 +45,35 @@ Led a team to architect and deliver a multi-app educational ecosystem across stu
 
 ## 💡 Featured Engineering Projects (Personal)
 
-I’ve worked on several full-stack projects, including:
+### 🌌 Spacey — AI-Powered Interactive Learning Platform
+*🔗 [Live Demo](https://spacey-moo9.vercel.app) &nbsp;·&nbsp; [GitHub](https://github.com/shashi997/spacey) &nbsp;·&nbsp; [▶ YouTube Demo](https://www.youtube.com/watch?v=Ie-eOQIOk5w)*
 
-- **Galaxy Glide** – An interactive 3D space exploration app built using **Three.js** and **Google OAuth**, showcasing advanced animation and real-time interactivity.
-- **AI News Summary** – A smart news summarization app powered by **Google Gemini AI** and custom **web scraping**, designed to deliver concise and relevant news updates.
+- **AI-Driven Lesson Engine:** Built real-time Q&A and intelligent quiz evaluation using the Google Gemini API — dynamically assessing student answers with context-aware feedback rather than static answer matching.
+- **Immersive Audio & Visual Layer:** Integrated Kokoro TTS for high-quality in-lesson narration and Three.js for animated 3D space environments, significantly increasing engagement compared to static slide-based content.
+- **Auth & Progress Persistence:** Implemented secure user authentication and lesson progress tracking using Firebase Auth + Firestore — storing user profiles, lesson state, and quiz history across sessions.
+- **Fully Responsive UI:** Designed and built with React + Tailwind CSS, delivering a consistent experience across desktop and mobile.
 
+> **Stack:** `React` `Node.js` `Gemini API` `Kokoro TTS` `Three.js` `Firebase` `Firestore` `Tailwind CSS` `Vite`
 
-I'm always eager to learn and explore new technologies, and I thrive in collaborative environments where creativity meets code. I'm currently seeking **full-time opportunities** where I can contribute, grow, and continue building impactful digital experiences.
+---
+
+### 🎯 AI Word Guesser — Wordle with an AI Brain
+*🔗 [GitHub](https://github.com/shashi997/AI-WORD-GUESS) &nbsp;·&nbsp; [▶ YouTube Demo](https://www.youtube.com/watch?v=dAyt_qC5xpE)*
+
+- **Gemini-Powered Word Selection:** Leveraged the Google Gemini API for dynamic, difficulty-aware word selection and context-sensitive clue generation — going beyond a static word list to create an adaptive challenge.
+- **Rich Completion Experience:** On game completion, delivers full word breakdowns including definitions, usage examples, and contextual info — turning a game into a vocabulary learning moment.
+- **Real-Time Feedback Loop:** Built a responsive React + Express frontend with instant per-guess feedback, animated state transitions, and session tracking for streaks and history.
+
+> **Stack:** `React` `Node.js` `Express.js` `Gemini API`
+
+---
+
+## 📦 Other Projects
+
+| Project | What it does | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Galaxy Glide** | Interactive 3D solar system with realistic orbital mechanics and Google OAuth2. Published in IJIRSET (peer-reviewed). | Three.js · MERN · OAuth2 · MongoDB | [Live](https://galaxy-glide-frontend.vercel.app/) · [GitHub](https://github.com/shashi997/Galaxy-Glide) · [Paper ↗](https://ijirset.com/upload/2025/march/288_Galaxy.pdf) |
+| **Real-time Chat App** | Full-stack multi-room chat with Socket.IO bidirectional comms and MongoDB persistence. | Socket.IO · MERN · REST APIs | [GitHub](https://github.com/shashi997/chatapp) · [▶ Demo](https://www.youtube.com/watch?v=W5jYJ6t6mDs) |
 
 ---
 
@@ -59,43 +81,43 @@ I'm always eager to learn and explore new technologies, and I thrive in collabor
 
 ### 🤖 AI & GenAI
 <p align="left">
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/MediaPipe-00C4CC?style=flat-square&logo=mediapipe&logoColor=white" alt="MediaPipe" />
+  &nbsp;<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/MediaPipe-00C4CC?style=flat-square&logo=mediapipe&logoColor=white" alt="MediaPipe" />&nbsp;
 </p>
 
 ### 💻 Frontend & 3D Interactive
 <p align="left">
-  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+  &nbsp;<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white" alt="Zustand" />&nbsp;
 </p>
 
 ### ⚙️ Backend, Cloud & Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  &nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />&nbsp;
 </p>
 
 ### 🔤 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+  &nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
 </p>
 
 ---
@@ -137,10 +159,10 @@ I'm always eager to learn and explore new technologies, and I thrive in collabor
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shashi997&show_icons=true&theme=graywhite&hide_border=true" alt="Shashidhar's GitHub Stats" height="170"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=shashi997&show_icons=true&theme=graywhite&hide_border=true" alt="Shashidhar's GitHub Stats" height="195"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi997&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" height="170"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi997&layout=compact&theme=graywhite&hide_border=true&langs_count=8" alt="Top Languages" height="195"/>
     </td>
   </tr>
 </table>
